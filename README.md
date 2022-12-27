@@ -8,6 +8,8 @@
 #### Minhas atividades por aqui:
 ![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Elias&show_icons=true&theme=tokyonight)
 
+
+
 ### Tecnologias que uso e que estou aprendendo:
 
 <div style="display: inline-block;">
@@ -26,7 +28,10 @@
     <img align="center"  alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
+<br>
 
-### Apaixonado por tecnologias, aprendizado constante e compartilhar conhecimento.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Elias&layout=compact)](https://github.com/Antonio-Elias/github-readme-stats)
+
+##### Apaixonado por tecnologias, aprendizado constante e compartilhar conhecimento.
 
 
