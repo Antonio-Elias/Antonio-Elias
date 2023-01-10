@@ -6,8 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-elias-12a612150/)
 
 #### Minhas atividades por aqui:
-![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Elias&show_icons=true&theme=tokyonight)
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Elias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Elias&layout=compact&langs_count=7&theme=dark"/>
@@ -33,8 +31,9 @@
 </div>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Elias&layout=compact)](https://github.com/Antonio-Elias/github-readme-stats)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Elias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ##### Apaixonado por tecnologias, aprendizado constante e compartilhar conhecimento.
 
