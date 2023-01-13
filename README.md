@@ -31,6 +31,7 @@
 </div>
 
 <br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonio-Elias&bg_color=0d1117&color=e9e5d9&line=4bc712&point=848239&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##### Apaixonado por tecnologias, aprendizado constante e compartilhar conhecimento.
