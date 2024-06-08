@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Antonio Elias👋👋
 
- - 🌱 Sou um estusiasta em web frontend e backend, estou estudadndo NodeJS | React | TS, ja possuo conhecimentos em: JS | HTML | CSS | Bootstrap | Mysql | Figma | MongoDB | Postgres | Sequelize | Express | Java
+ - 🌱 Sou um estusiasta em web frontend e backend, estou estudadndo React , ja possuo conhecimentos em: JS | HTML | CSS | Bootstrap | Mysql | Figma | MongoDB | Postgres | Sequelize | Express | Java |C#
 
 ### Saiba mais sobre mim:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-elias-12a612150/)
