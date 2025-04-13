@@ -12,11 +12,73 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Elias&layout=compact&hide_border=true&title_color=00cb3d&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-### Tecnologias que uso e que possuo conhecimento:
+### Linguagens e tecnologias:
 
 <div style="display: inline-block;">
-    <img align="center"  alt="C#" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />">
-    <img align="center"  alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+     />
+      <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+     />
+     <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+     />
+    <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+     />
+     <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+     />
+    <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"
+     />
+   <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+     />
+   <img 
+         aling="left"
+         alt="C#"
+         title="C#"
+         width="30px"
+         style="padding-right: 12px;"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+     />
 </div>
 
 <br>
