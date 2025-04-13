@@ -25,56 +25,56 @@
      />
       <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="Dotnetcore"
+         title="Dotnetcore"
          width="30px"
          style="padding-right: 12px;"
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
      />
      <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="PostgreSQL"
+         title="PostgreSQL"
          width="30px"
          style="padding-right: 12px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
      />
     <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="Banco de Dados Oracle"
+         title="Banco de Dados Oracle"
          width="30px"
          style="padding-right: 12px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
      />
      <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="Rabbitmq"
+         title="Rabbitmq"
          width="30px"
          style="padding-right: 12px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
      />
     <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="Rider"
+         title="Rider"
          width="30px"
          style="padding-right: 12px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg"
      />
    <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="Visual Studio"
+         title="Visual Studio"
          width="30px"
          style="padding-right: 12px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
      />
    <img 
          aling="left"
-         alt="C#"
-         title="C#"
+         alt="azuredevops"
+         title="azuredevops"
          width="30px"
          style="padding-right: 12px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
