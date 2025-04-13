@@ -15,8 +15,8 @@
 ### Tecnologias que uso e que possuo conhecimento:
 
 <div style="display: inline-block;">
+    <img align="center"  alt="C#" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />">
     <img align="center"  alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center"  alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">   
 </div>
 
 <br>
